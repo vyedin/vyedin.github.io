@@ -9,7 +9,7 @@ _Hi, I'm Nina._
 
 I have 10 years of experience in the tech industry and I've worked as a product manager for Elizabeth Warren's tech team, a successful Silicon Valley startup, and Microsoft. You can see examples of my work on [campaign tech](), [data](), and [tools for people who write code]().
 
-<p align="center"><img src="globe_bw.jpeg" alt="Photo by Jess Bidgood, Boston Globe, March 2020" width="700"/><br/>
+<p align="center"><img src="globe_bw.jpeg" alt="Photo by Jess Bidgood, Boston Globe, March 2020" width="500"/><br/>
 <i>Photo by Jess Bidgood, Boston Globe, March 2020</i></p>
 
 **You can work with me!**
