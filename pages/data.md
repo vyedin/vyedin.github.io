@@ -7,17 +7,24 @@ description:
 
 I love working with data and am working towards a certificate in data science from Harvard's extension school program. Here are a few examples of 
 
-### The Modal Voter: GenData 2020 Final Project
+The Modal Voter: GenData 2020 Final Project
+===
 
 For my final project as part of the [Generation Data](https://www.generationdata.org/) Intro to Progressive Data training, I applied principles [] to our mock campaign data. I wrote SQL queries to create the "buckets" [] and then examined the buckets [] to [] patterns of voter behavior and used Tableau to visualize [].
 
 []
 
-### Classifying Building Types: Image Classification for Colloquial Architecture
+Classifying Building Types: Image Classification for Colloquial Architecture
+===
 
-[]
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=4UlEgA22lpE
+" target="_blank"><img src="http://img.youtube.com/vi/4UlEgA22lpE/0.jpg" 
+alt="Classifying Building Types" width="480" height="360" border="10" /></a>
+ </p>
 
-### Flipper: Real Estate Classifier
+Flipper: Real Estate Classifier
+===
 
 <p align="center"><img src="../flipper1.png" alt="Flipper" width="600"/></p>
 
