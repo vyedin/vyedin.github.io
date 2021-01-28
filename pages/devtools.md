@@ -5,7 +5,7 @@ tagline: my work at xamarin and microsoft
 description: 
 ---
 
-In 2011, I joined a new startup on a mission to make it fast, easy, and fun to build mobile apps. We joined Microsoft in 2016 to help make it easier to build mobile apps with Visual Studio and .NET. Below are some of the projects I'm most proud of during my time at Xamarin/Microsoft.
+In 2011, I joined Xamarin, a new startup on a mission to make it fast, easy, and fun to build mobile apps. Xamarin joined Microsoft's developer division in 2016, bringing our products and ideas to millions more users all over the world as part of Visual Studio. Below are some of the projects I'm most proud of during my time at Xamarin/Microsoft.
 
 <br/>
 
