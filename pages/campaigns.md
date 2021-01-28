@@ -5,12 +5,10 @@ tagline:
 description: 
 ---
 
-[...].
-
 <br/>
 
 <p align="center">
-<img src="../assets/images/tweet1.png" alt="Tweet" width="400"/>
+<img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/>
 </p>
 
 <br/>
@@ -22,7 +20,7 @@ Our campaign tech team was a phenomenal group of individuals. To hear their stor
 <br/>
 
 <p align="center">
-<img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/>
+<img src="../assets/images/tweet1.png" alt="Tweet" width="400"/>
 </p>
 
 <br/>
