@@ -15,7 +15,7 @@ For my final project as part of the [Generation Data](https://www.generationdata
 
 I wrote SQL queries to break voters into demographic "buckets" based on generation, party, sex, and race, and then used Tableau to visualize patterns of voter behavior. 
 
-This presentation was selected for the final showcase (out of 6 out of 20).
+This presentation was selected for the final showcase (one of 6 out of 20). 
 
 <br/>
 
@@ -24,6 +24,8 @@ This presentation was selected for the final showcase (out of 6 out of 20).
 </p>
 
 <br/>
+
+Generation Data does **amazing** work training data folks for progressive campaigns. You can donate to support them [here](https://secure.actblue.com/donate/generationdata),
 
 ---
 
