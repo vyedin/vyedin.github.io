@@ -34,7 +34,7 @@ I was offered an hour to give any talk I wanted at the conference, and produced 
 <br/>
 
 <p align="center">
-<iframe src="https://vimeo.com/album/3937948/embed" width=600 allowfullscreen frameborder="0"></iframe>
+<iframe src="https://vimeo.com/album/3937948/embed" width="600" allowfullscreen frameborder="0"></iframe>
 </p>
 
 <br/>
