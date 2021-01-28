@@ -5,7 +5,7 @@ tagline: my work on the warren campaign
 description: 
 ---
 
-[...]. Much of our tech was open sourced after the campaign, and you can find a good summary of that effort on Wired and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
+I joined the Warren campaign in June 2020 as the first product manager, focusing on organizing technology. Much of what my team built was open sourced after the campaign, and you can find a good summary of that effort on [Wired](https://www.wired.com/story/elizabeth-warren-campaign-open-source-tech/) and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
 
 <br/>
 
@@ -70,7 +70,7 @@ Collaborators:
 <br/>
 
 <p align="center">
-<img src="../assets/images/caucus1.png" alt="Caucus App"/><img src="../assets/images/caucus2.png" alt="Caucus App"/>
+<img src="../assets/images/caucus1.png" alt="Caucus App" width="400"/><img src="../assets/images/caucus2.png" alt="Caucus App" width="400"/>
 </p>
 
 <br/>
@@ -94,7 +94,7 @@ After some initial issues (service workers failed to update the app in certain s
 
 <br/>
 
-Caucuses are a developer's nightmare, with niche requirements and little opportunity to test technology ahead of time (as we saw with the official Iowa caucus reporting app). That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest.
+Caucuses are a developer's nightmare, with niche requirements and little opportunity to test technology ahead of time (as we saw with the official Iowa caucus reporting app). That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest. Our source code for the front end is [here](https://github.com/Elizabeth-Warren/iowa-caucus-app).
 
 In the end, we were able to share our raw data with the Iowa Democratic party to speed up results:
 
@@ -106,7 +106,7 @@ In the end, we were able to share our raw data with the Iowa Democratic party to
 
 <br/>
 
-Collaborators: 
+Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@benweissmann](https://benweissmann.com/), [@victoriaadams](https://twitter.com/victoriadams), [@charlotteeffect](https://twitter.com/charlotteeffect), and many others.
 
 ---
 
