@@ -7,7 +7,7 @@ description:
 
 _Hi, I'm Nina._
 
-I have 10 years of experience in the tech industry and I've worked as a product manager for Elizabeth Warren's 2020 Presidential campaign tech team, a successful Silicon Valley startup, and Microsoft. You can see examples of my work on [campaign tech](), [data](/pages/data.html), and [tools for people who write code]().
+I have 10 years of experience in the tech industry and I've worked as a product manager for Elizabeth Warren's 2020 Presidential campaign tech team, a successful Silicon Valley startup, and Microsoft. You can see examples of my work on [campaign tech](/pages/campaigns.html), [data](/pages/data.html), and [tools for people who write code](/pages/devtools.html).
 
 <br/>
 
