@@ -14,7 +14,7 @@ I love working with data, and I am working towards a certificate in data science
 For my final project as part of the [Generation Data](https://www.generationdata.org/) Intro to Progressive Data training, I applied statistical methods I learned in one of my favorite Planet Money episodes ("[The Modal American](https://www.npr.org/2019/08/28/755191639/episode-936-the-modal-american)") to our mock campaign data. I wrote SQL queries to break voters into demographic "buckets" based on generation, party, sex, and race, and then used Tableau to visualize patterns of voter behavior. This was chosen as one of 6 top projects out of 20.
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=true&loop=false" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 ---
