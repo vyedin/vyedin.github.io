@@ -5,23 +5,19 @@ tagline: data science, modeling, deep learning
 description: 
 ---
 
-I love working with data and am working towards a certificate in data science from Harvard's extension school program. Here are a few examples of 
+I love working with data, and I am working towards a certificate in data science from Harvard's extension school program. Here are a few examples of data projects I've worked on.
 
 #### The Modal Voter: GenData 2020 Final Project
 
 For my final project as part of the [Generation Data](https://www.generationdata.org/) Intro to Progressive Data training, I applied statistical methods I learned in one of my favorite Planet Money episodes ("[The Modal American](https://www.npr.org/2019/08/28/755191639/episode-936-the-modal-american)") to our mock campaign data. I wrote SQL queries to break voters into demographic "buckets" based on generation, party, sex, and race, and then used Tableau to visualize patterns of voter behavior. This was chosen as one of 6 top projects out of 20.
 
-[]
+<iframe src="https://microsoft-my.sharepoint.com/personal/vyedin_microsoft_com/_layouts/15/Doc.aspx?sourcedoc={40bb3fb4-7e9a-49f4-a489-e2ce2c549237}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 #### Classifying Building Types: Image Classification for Colloquial Architecture
 
 <p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=4UlEgA22lpE
-" target="_blank"><img src="http://img.youtube.com/vi/4UlEgA22lpE/0.jpg" 
-alt="Classifying Building Types" width="480" height="360" border="10" /></a>
- </p>
- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UlEgA22lpE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p> 
 
 #### Flipper: Real Estate Classifier
 
