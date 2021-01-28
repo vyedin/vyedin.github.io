@@ -25,7 +25,7 @@ This presentation was selected for the final showcase (one of 6 out of 20).
 
 <br/>
 
-Generation Data does **amazing** work training data folks for progressive campaigns. You can donate to support them [here](https://secure.actblue.com/donate/generationdata),
+Generation Data does **amazing** work training data folks for progressive campaigns. You can donate to support them [here](https://secure.actblue.com/donate/generationdata).
 
 ---
 
