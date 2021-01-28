@@ -15,13 +15,15 @@ For my final project as part of the [Generation Data](https://www.generationdata
 
 I wrote SQL queries to break voters into demographic "buckets" based on generation, party, sex, and race, and then used Tableau to visualize patterns of voter behavior. 
 
-This presentation was chosen as one of top 6 final projects (out of 20).
+This presentation was selected for the final showcase (out of 6 out of 20).
 
-<br/><br/>
+<br/>
 
 <p align="center">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=false" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
+
+<br/>
 
 ---
 
@@ -31,23 +33,34 @@ My final project for the Deep Learning course at Harvard in fall 2020 was an ima
 
 I trained a VGG16 image classification model in Keras on a custom dataset. I leveraged transfer learning, image augmentation, dataset balancing, and fine tuning to classify 10 common styles of houses at 86% accuracy.
 
+<br/>
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UlEgA22lpE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
 
+<br/>
+
 ---
 
 ### Flipper: Real Estate Classifier
 
+<br/>
+
 <p align="center"><img src="../flipper1.png" alt="Flipper" width="600"/></p>
+
+<br/>
 
 Flipper was a final group project for a course I took with [Zona Kostic](https://www.zonakostic.com/about.html) in summer 2020. My team had access to a subset of Greater Boston MLS (real estate) data from the past 10 years. Our goal was to determine whether a property had flip potential _without_ using listing photos or descriptions, and discern which predictors contributed most to a given listing's flippability. This was a classic data science problem - no deep learning required. 
 
 I owned the data science portion of the project and used a random forest classifier, training the model on past flips we found in the listings augmented with SMOTE to create a more balanced data set. You can browse the full notebook [here](https://github.com/gregfrasco/real-estate-price-predictions/blob/master/notebooks/basic_model.ipynb).
 
+<br/>
+
 <p align="center"><img src="../flipper2.png" alt="Flipper" width="600"/></p>
 <p align="center"><img src="../flipper3.png" alt="Flipper" width="600"/></p>
+
+<br/>
 
 Getting the model to make accurate predictions using listing metadata was a challenge, but we were able to classify non-flippable properties with ~98% accuracy and classify flippable properties with just under 70% accuracy. Our team was the runner up for best final project with the Flipper model and site.
 
