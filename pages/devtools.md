@@ -5,9 +5,15 @@ tagline: my work at xamarin and microsoft
 description: 
 ---
 
-In 2011, I joined a new startup []. [] - below are some of the projects I'm most proud of.
+In 2011, I joined a new startup []. We joined Microsoft in 2016 []. Below are some of the projects I'm most proud of.
 
-[picture]
+<br/>
+
+<p align="center">
+<img src="../assets/images/xam.jpg" alt="Xamarin_2013" width="600"/>
+</p>
+
+<br/>
 
 ---
 
@@ -18,7 +24,7 @@ For our 2016 Evolve conference, I []. [blog post announcement].
 <br/>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgXCB51e4ak?t=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgXCB51e4ak?start=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
 
 <br/>
@@ -26,9 +32,11 @@ For our 2016 Evolve conference, I []. [blog post announcement].
 I was offered an hour to give any talk I wanted at the conference, and produced a short documentary on everyday people's relationships with their mobile apps ad devices. It's called "If You Build It", and you can watch it here:
 
 <br/>
+
 <p align="center">
 <iframe src="https://vimeo.com/album/3937948/embed" width=600 allowfullscreen frameborder="0"></iframe>
 </p>
+
 <br/>
 
 ---
@@ -38,9 +46,11 @@ I was offered an hour to give any talk I wanted at the conference, and produced 
 My first big project as a product manager was building a profiler for managed code to help Xamarin developers find and fix performance issues in their apps.  Watch me break down the product and why it's useful with my friend [@JamesMontemagno](https://twitter.com/JamesMontemagno) on [Channel 9] (https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Profiler-with-Nina-Vyedin), or read the announcement blog post [here](https://devblogs.microsoft.com/xamarin/say-hello-to-the-xamarin-profiler/).
 
 <br/>
+
 <p align="center">
 <img src="../assets/images/cycles-vs.png" alt="Profiler" width="600"/>
 </p>
+
 <br/>
 
 ---
