@@ -36,7 +36,7 @@ It's called "If You Build It", and you can watch it here:
 <br/>
 
 <p align="center">
-<iframe src="https://vimeo.com/album/3937948/embed" width={playback_width} height={playback_height} allowfullscreen frameborder="0"></iframe>
+<iframe src="https://vimeo.com/album/3937948/embed" width="640" height="360" allowfullscreen frameborder="0"></iframe>
 </p>
 
 <br/>
