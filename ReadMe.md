@@ -1,6 +1,8 @@
 ## Simple site
 
-Created from template, attribution below.
+Created from simple site theme, attribution below.
+
+I 100% edit this bad boy in production, iykyk.
 
 ---
 
