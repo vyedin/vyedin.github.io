@@ -31,15 +31,7 @@ For Xamarin's 2016 developer conference (Evolve), I product managed a new featur
 
 Also in 2016 produced a short documentary on everyday people's relationships with their mobile apps and devices to be shown at the conference. It's an celebration of the way mobile has changed our lives since the first smartphone came out, and a look back on the market and the company we helped build.
 
-It's called "If You Build It", and you can watch it here:
-
-<br/>
-
-<p align="center">
-<iframe src="https://vimeo.com/showcase/3937948/embed" width="640" height="360" allowfullscreen frameborder="0"></iframe>
-</p>
-
-<br/>
+It's called "If You Build It", and you can watch it [here](https://vimeo.com/showcase/3937948).
 
 ---
 
