@@ -19,6 +19,14 @@ description:
 
 Our campaign tech team was a phenomenal group of individuals. To hear their stories, check out [this episode of DevTalk podcast](https://kerry.lothrop.de/devtalk-41/) we recorded with my friend Kerry Lothrop after the campaign, and [this wonderful post](https://medium.com/@susangoldblatt/tech-on-a-presidential-campaign-an-overview-9679d69b2109) by one of our engineers. You can find other campaign projects on the Team Warren [Github](https://github.com/Elizabeth-Warren).
 
+<br/>
+
+<p align="center">
+<img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/>
+</p>
+
+<br/>
+
 ---
 
 ### Switchboard: Organize Your Community
@@ -86,7 +94,15 @@ Our Iowa team wanted a mobile app to help precinct captains (~2500 Warren volunt
 
 We put together a proposal for a design and a recommendation to try building this as a progressive web app, with the caveat that the technology was still new and would require the Iowa team to be an active participant in building and testing. This choice had some big benefits - there was no app store review process or separate packages to maintain, volunteers didn't have to remember Apple or Google passwords (a real issue), and once the app was pinned to the home screen, it looked and felt just like a native app. We wrote results to DynamoDB (S3 for pictures of paper caucus worksheets, which proved crucial) and then to a master spreadsheet where analysts compiled results. 
 
-After some initial issues (service workers failed to update the app in certain scenarios, and we had to track down those users to clear their cache), our app and the accompanying support hotline worked well on caucus night.
+After some initial issues (service workers failed to update the app in certain scenarios, and we had to track down those users to clear their cache), our app and the accompanying support hotline worked well on caucus night, and even won us some delegates!
+
+<br/>
+
+<p align="center">
+<img src="../assets/images/tweet3.png" alt="Tweet" width="400"/>
+</p>
+
+<br/>
 
 Caucuses are a developer's nightmare, with niche requirements and little opportunity to test technology ahead of time (as we saw with the official Iowa caucus reporting app). That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest.
 
