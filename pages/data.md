@@ -7,19 +7,28 @@ description:
 
 I love working with data, and I am working towards a certificate in data science from Harvard's extension school program. Here are a few examples of data projects I've worked on.
 
-#### The Modal Voter: GenData 2020 Final Project
+---
+
+### The Modal Voter: GenData 2020 Final Project
 
 For my final project as part of the [Generation Data](https://www.generationdata.org/) Intro to Progressive Data training, I applied statistical methods I learned in one of my favorite Planet Money episodes ("[The Modal American](https://www.npr.org/2019/08/28/755191639/episode-936-the-modal-american)") to our mock campaign data. I wrote SQL queries to break voters into demographic "buckets" based on generation, party, sex, and race, and then used Tableau to visualize patterns of voter behavior. This was chosen as one of 6 top projects out of 20.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### Classifying Building Types: Image Classification for Colloquial Architecture
+---
+
+### Classifying Building Types: Image Classification for Colloquial Architecture
+
+My final project for the Deep Learning course at Harvard in fall 2020 was an image classifier for common American houses as outlined by Virginia Savage McAlester in _A Field Guide to American Houses_. I trained a VGG16 image classification model in Keras on a custom dataset. I leveraged transfer learning, image augmentation, dataset balancing, and fine tuning to classify 10 common styles of houses at 86% accuracy.
+
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UlEgA22lpE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p> 
 
-#### Flipper: Real Estate Classifier
+---
+
+### Flipper: Real Estate Classifier
 
 <p align="center"><img src="../flipper1.png" alt="Flipper" width="600"/></p>
 
