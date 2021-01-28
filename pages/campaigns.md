@@ -1,19 +1,19 @@
 ---
 layout: page
 title: campaigh tech
-tagline: 
+tagline: my work on the warren campaign
 description: 
 ---
+
+[...]. Much of our tech was open sourced after the campaign, and you can find a good summary of that effort on Wired and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
 
 <br/>
 
 <p align="center">
-<img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/>
+  <a href="https://twitter.com/elicejosselyn/status/1243560381555052550"><img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/></a>
 </p>
 
 <br/>
-
-[...]. Much of our tech was open sourced after the campaign, and you can find a good summary of that effort on Wired and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
 
 Our campaign tech team was a phenomenal group of individuals. To hear their stories, check out [this episode of DevTalk podcast](https://kerry.lothrop.de/devtalk-41/) we recorded with my friend Kerry Lothrop after the campaign, and [this wonderful post](https://medium.com/@susangoldblatt/tech-on-a-presidential-campaign-an-overview-9679d69b2109) by one of our engineers. You can find other campaign projects on the Team Warren [Github](https://github.com/Elizabeth-Warren).
 
@@ -89,7 +89,7 @@ After some initial issues (service workers failed to update the app in certain s
 <br/>
 
 <p align="center">
-<img src="../assets/images/tweet3.png" alt="Tweet" width="400"/>
+<a href="https://twitter.com/RogerLau/status/1224712792227401729"><img src="../assets/images/tweet3.png" alt="Tweet" width="400"/></a> 
 </p>
 
 <br/>
@@ -101,7 +101,7 @@ In the end, we were able to share our raw data with the Iowa Democratic party to
 <br/>
 
 <p align="center">
-<img src="../assets/images/tweet2.png" alt="Tweet" width="400"/>
+  <a href="https://twitter.com/titonka/status/1224558023974313985"><img src="../assets/images/tweet2.png" alt="Tweet" width="400"/></a>
 </p>
 
 <br/>
