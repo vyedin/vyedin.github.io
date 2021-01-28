@@ -19,7 +19,7 @@ In 2011, I joined a new startup []. We joined Microsoft in 2016 []. Below are so
 
 ### Evolve 2016: Keynote, Live Previewer, and the state of mobile
 
-For our 2016 Evolve conference, I []. [blog post announcement]. 
+For Xamarin's 2016 developer conference (Evolve), I managed a [] for live preview of []. I had the honor of launching the Previewer in the keynote [].
 
 <br/>
 
@@ -29,7 +29,7 @@ For our 2016 Evolve conference, I []. [blog post announcement].
 
 <br/>
 
-I was offered an hour to give any talk I wanted at the conference, and produced a short documentary on everyday people's relationships with their mobile apps and devices. It's an celebration of the way mobile has changed our lives since the first smartphone came out, and a look back on the market and the company we helped build.
+Also in 2016 produced a short documentary on everyday people's relationships with their mobile apps and devices to be shown at the conference. It's an celebration of the way mobile has changed our lives since the first smartphone came out, and a look back on the market and the company we helped build.
 
 It's called "If You Build It", and you can watch it here:
 
@@ -58,8 +58,6 @@ My first big project as a product manager was building a profiler for managed co
 ---
 
 ### Microsoft: Installer, Visual Studio, and more
-
-[msft photo]
 
 At Microsoft, I led the team that modernized the [Visual Studio for Mac installer](https://www.youtube.com/watch?v=KMXm43LVNeY&ab_channel=ProgrammingKnowledge). We upgraded the then 8-year-old codebase from xwt to a native Mac app (using Xamarin.Mac), improved install success by ~20% by rethinking first run experience and making downloads more resilient, and completed a full rebranding. 
 
