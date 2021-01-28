@@ -112,15 +112,5 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 ### Dialers, Hotlines, and other fun with telephony
 
-
-
-<br/>
-
-<p align="center">
-
-</p>
-
-<br/>
-
-Collaborators: 
+I spent a lot of cycles on the campaign learning everything I could about telephony. This included researching the possibility of building our own dialer for massive call campaigns (we eventually decided [ThruTalk](https://www.thrutalk.io/)/Livevox was the most cost-effective option for us), finding ways to improve call connection rate with caller ID and whitelisting, and building call and text flows. Thanks to some brilliant ideas from [@benweissmann](https://benweissmann.com/) and a Twilio developer account, I once found myself "in charge" of a small army of Verizon phones that would all ring at the same time. I have zero regrets about the whole thing.
 
