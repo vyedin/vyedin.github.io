@@ -39,7 +39,7 @@ Switchboard was a tool for distributed organizing. It's my favorite of all the p
 
 <br/>
 
-When I first joined the campaign, I was told we had several hundred thousand volunteer leads who had filled out an interest form online but had not yet heard back from an organizer. This was both urgent and inevitable: it was critical that we connected with supporters as soon as possible and put them to work, but we didn't have the staff we needed in every state to organize everyone. To solve this, we needed to make everyone an organizer by empowering volunteers to connect with other Warren supporters in their communities. Switchboard was our solution to that.
+When I first joined the campaign, I was told we had several hundred thousand volunteer prospects who had filled out an interest form online but had not yet heard back from the campaign. This was both urgent and inevitable: it was critical that we connected with supporters as soon as possible and put them to work, but we didn't have the staff we needed in every state to organize everyone. To solve this, we needed to make everyone an organizer by empowering volunteers to connect with other Warren supporters in their communities. Switchboard was our solution to that.
 
 We sent our best and most trusted volunteers to Switchboard, a web app where they could discover, connect, and keep track of prospects in their area. We replaced the traditional model, where an organizer has to cut lists of prospects for volunteers to call, with a simple algorithm that repeatedly assigned volunteers their ten closest contacts. Volunteers would call or text their prospects and if they made a connection, they could sign the prospect up for an event and add them to their list for future contacts. 
 
@@ -51,17 +51,20 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 ### Shifter: Never Miss a Volunteer Shift
 
+Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to Mobilize America (our event management tool) using the Mobilize API. We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
 
+Shifter powered in-app event signups on Switchboard (above), as well as on our website. Becasue of Shifter, we were able to build a beautiful personalized signup journey where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
 
 <br/>
-
 <p align="center">
-
 </p>
-
 <br/>
 
-Collaborators: 
+A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the people they were calling for a Mobilize event directly from the call script by submitting a form with the person's data pre-filled and the shift time selected. 
+
+This is important because before Shifter, callers would mark the person they were calling as "interested in attending" in a survey question, relying on the callee to remember to attend the event (!!!). With Shifter, the callee received email reminders from Mobilize, and the success of our recruitment efforts could be tracked and measured. Shifter helped us capture thousands of volunteer shifts that would otherwise have been lost.
+
+Collaborators:  [@goldblatt](https://github.com/goldblatt), [@jjandoc](https://github.com/jjandoc), [@victoriaadams](https://twitter.com/victoriadams), [@matteosb](https://github.com/matteosb), and many more.
 
 ---
 
@@ -94,7 +97,7 @@ After some initial issues (service workers failed to update the app in certain s
 
 <br/>
 
-Caucuses are a developer's nightmare, with niche requirements and little opportunity to test technology ahead of time (as we saw with the official Iowa caucus reporting app). That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest. Our source code for the front end is [here](https://github.com/Elizabeth-Warren/iowa-caucus-app).
+Caucuses are a [developer's nightmare](https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html), with niche requirements and little opportunity to test technology ahead of time. That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest. You can browse the source code for our app [here](https://github.com/Elizabeth-Warren/iowa-caucus-app).
 
 In the end, we were able to share our raw data with the Iowa Democratic party to speed up results:
 
