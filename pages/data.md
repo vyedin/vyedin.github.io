@@ -49,7 +49,7 @@ I trained a VGG16 image classification model in Keras on a custom dataset. I lev
 
 <br/>
 
-<p align="center"><img src="../flipper1.png" alt="Flipper" width="600"/></p>
+<p align="center"><img src="../assets/images/flipper1.png" alt="Flipper" width="600"/></p>
 
 <br/>
 
@@ -59,8 +59,8 @@ I owned the data science portion of the project and used a random forest classif
 
 <br/>
 
-<p align="center"><img src="../flipper2.png" alt="Flipper" width="600"/></p>
-<p align="center"><img src="../flipper3.png" alt="Flipper" width="600"/></p>
+<p align="center"><img src="../assets/images/flipper2.png" alt="Flipper" width="600"/></p>
+<p align="center"><img src="../assets/images/flipper3.png" alt="Flipper" width="600"/></p>
 
 <br/>
 
