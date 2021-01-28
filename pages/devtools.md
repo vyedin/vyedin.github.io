@@ -10,7 +10,7 @@ In 2011, I joined a new startup []. We joined Microsoft in 2016 []. Below are so
 <br/>
 
 <p align="center">
-<img src="../assets/images/xam.jpg" alt="Xamarin_2013" width="700"/>
+<img src="../assets/images/xam.jpg" alt="Xamarin_2013"/>
 </p>
 
 <br/>
@@ -43,12 +43,12 @@ I was offered an hour to give any talk I wanted at the conference, and produced 
 
 ### Evolve 2014: Profiler
 
-My first big project as a product manager was building a profiler for managed code to help Xamarin developers find and fix performance issues in their apps.  Watch me break down the product and why it's useful with my friend [@JamesMontemagno](https://twitter.com/JamesMontemagno) on [Channel 9] (https://channel9.msdn.com/Shows/XamarinShow/Xamarin-Profiler-with-Nina-Vyedin), or read the announcement blog post [here](https://devblogs.microsoft.com/xamarin/say-hello-to-the-xamarin-profiler/).
+My first big project as a product manager was building a profiler for managed code to help Xamarin developers find and fix performance issues in their apps.  Watch me break down the product and why it's useful with my friend [@JamesMontemagno](https://twitter.com/JamesMontemagno) on Channel 9 or read the announcement blog post [here](https://devblogs.microsoft.com/xamarin/say-hello-to-the-xamarin-profiler/).
 
 <br/>
 
 <p align="center">
-<img src="../assets/images/cycles-vs.png" alt="Profiler" width="600"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gO2YwTtJuvs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <br/>
