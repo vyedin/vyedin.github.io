@@ -9,7 +9,7 @@ In 2011, I joined [Xamarin](https://en.wikipedia.org/wiki/Xamarin), a startup on
 
 Xamarin became part of Microsoft's developer division in 2016, making it possible for millions of developers around the world to use Xamarin for free as part of Microsoft's Visual Studio. 
 
-Below are some of the projects I'm most proud of during my time at Xamarin/Microsoft.
+Below are some of the projects I'm most proud of during my time at Xamarin and Microsoft.
 
 <br/>
 
