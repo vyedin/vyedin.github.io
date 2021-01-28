@@ -10,7 +10,7 @@ In 2011, I joined a new startup []. We joined Microsoft in 2016 []. Below are so
 <br/>
 
 <p align="center">
-<img src="../assets/images/xam.jpg" alt="Xamarin_2013" width="600"/>
+<img src="../assets/images/xam.jpg" alt="Xamarin_2013" width="700"/>
 </p>
 
 <br/>
