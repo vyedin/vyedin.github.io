@@ -19,7 +19,7 @@ In 2011, I joined a new startup []. We joined Microsoft in 2016 []. Below are so
 
 ### Evolve 2016: Keynote, Live Previewer, and the state of mobile
 
-For Xamarin's 2016 developer conference (Evolve), I managed a [] for live preview of []. I had the honor of launching the Previewer in the keynote [].
+For Xamarin's 2016 developer conference (Evolve), I product managed a new feature for Xamarin Forms that allowed the IDE to show a live preview of the app's UI alongside the user's code. I had the honor of working alongside an incredible team of engineers and designers to bring this feature to life in record time, and then launching the Previewer in the opening keynote.
 
 <br/>
 
@@ -36,7 +36,7 @@ It's called "If You Build It", and you can watch it here:
 <br/>
 
 <p align="center">
-<iframe src="https://vimeo.com/album/3937948/embed" width="640" height="360" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://vimeo.com/showcase/3937948/embed" width="640" height="360" allowfullscreen frameborder="0"></iframe>
 </p>
 
 <br/>
