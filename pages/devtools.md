@@ -29,12 +29,14 @@ For our 2016 Evolve conference, I []. [blog post announcement].
 
 <br/>
 
-I was offered an hour to give any talk I wanted at the conference, and produced a short documentary on everyday people's relationships with their mobile apps ad devices. It's called "If You Build It", and you can watch it here:
+I was offered an hour to give any talk I wanted at the conference, and produced a short documentary on everyday people's relationships with their mobile apps and devices. It's an celebration of the way mobile has changed our lives since the first smartphone came out, and a look back on the market and the company we helped build.
+
+It's called "If You Build It", and you can watch it here:
 
 <br/>
 
 <p align="center">
-<iframe src="https://vimeo.com/album/3937948/embed" width="600" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://vimeo.com/album/3937948/embed" width={playback_width} height={playback_height} allowfullscreen frameborder="0"></iframe>
 </p>
 
 <br/>
