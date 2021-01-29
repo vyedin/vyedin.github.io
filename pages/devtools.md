@@ -28,7 +28,9 @@ For Xamarin's 2016 developer conference (Evolve), I product managed a new featur
 <br/>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jgXCB51e4ak?start=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="responsive-youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jgXCB51e4ak?start=1800" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </p> 
 
 <br/>
