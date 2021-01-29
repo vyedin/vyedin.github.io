@@ -31,11 +31,11 @@ Switchboard was a tool for distributed organizing. It's my favorite of all the p
 
 <br/>
 
-When I first joined the campaign, I was told we had several hundred thousand volunteer prospects who had filled out an interest form online but had not yet heard back from the campaign. This was both urgent and inevitable: it was critical that we connected with supporters as soon as possible and put them to work, but we didn't have the staff we needed in every state to organize everyone. To solve this, we needed to make everyone an organizer by empowering volunteers to connect with other Warren supporters in their communities. Switchboard was our solution to that.
+When I first joined the campaign, I was told that several hundred thousand volunteer prospects had filled out a form online but had not yet heard back from the campaign. This was both urgent and inevitable: it was critical that we connected with supporters as soon as possible, but we didn't have the staff to organize everyone. To solve this, we needed to make everyone an organizer by empowering volunteers to connect with Warren supporters in their communities. Switchboard was our solution to that.
 
-We sent our best and most trusted volunteers to Switchboard, a web app where they could discover, connect, and keep track of prospects in their area. We replaced the traditional model, where an organizer has to cut lists of prospects for volunteers to call, with a simple algorithm that repeatedly assigned volunteers their ten closest contacts. Volunteers would call or text their prospects and if they made a connection, they could sign the prospect up for an event and add them to their list for future contacts. 
+We sent our best volunteers to Switchboard, a web app where they could discover, connect, and keep track of supporters in their area. We replaced the traditional model, where an organizer has to cut lists of prospects for volunteers to call, with a simple algorithm that repeatedly assigned volunteers their ten closest contacts. Volunteers would call or text supporters and if they made a connection, they could sign the supporter up for an event and add them to their list for future contacts. 
 
-The app was beautiful, simple, and easy to use. We used a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift their prospects into [Mobilize](https://join.mobilize.us/) events directly from the app. I personally used Switchboard almost daily to recruit for debate watch parties, phone banks, and canvasses in my town. Thousands of volunteer prospects got their first outreach from the campaign via Switchboard, and our volunteers loved it!
+The app was beautiful, simple, and easy to use. We made a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift supporters into [Mobilize](https://join.mobilize.us/) events directly from the app. I personally used Switchboard daily to recruit for debate watch parties, phone banks, and canvasses in my town. Thousands of supporters got their first outreach from the campaign via Switchboard, and our volunteers loved it!
 
 Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@matteosb](https://github.com/matteosb), [@victoriaadams](https://twitter.com/victoriadams) and many many more!
 
@@ -43,13 +43,29 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 ### Shifter: Never Miss a Volunteer Shift
 
-Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to [Mobilize](https://join.mobilize.us/) (our event management tool) using the Mobilize [API](https://github.com/mobilizeamerica/api). We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
+Shifter made it possible to capture event signups wherever we wanted. With Shifter, we could collect event signups on our own front-ends and write them to [Mobilize](https://join.mobilize.us/) (our event management tool) using the Mobilize [API](https://github.com/mobilizeamerica/api). We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent event info from Mobilize. 
 
 Shifter powered in-app event signups on Switchboard (above), as well as on our website. We built a beautiful personalized signup journey based on Shifter, where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
+
+<br/>
+
+<p align="center">
+  <img src="../assets/images/shifter.png" alt="Shift Yourself"/>
+</p>
+
+<br/>
 
 A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the people they were calling for a Mobilize event directly from the call script by submitting a form with the person's data pre-filled and the shift time selected. 
 
 This is important because before Shifter, callers would mark the person they were calling as "interested in attending" in a survey question, relying on the callee to remember to attend the event (!!!). With Shifter, the callee received email reminders from Mobilize, and the success of our recruitment efforts could be tracked and measured. Shifter helped us capture thousands of volunteer shifts that would otherwise have been lost.
+
+<br/>
+
+<p align="center">
+  <img src="../assets/images/shifter2.png" alt="Shift Yourself" width="500"/>
+</p>
+
+<br/>
 
 Collaborators:  [@goldblatt](https://github.com/goldblatt), [@jjandoc](https://github.com/jjandoc), [@victoriaadams](https://twitter.com/victoriadams), [@matteosb](https://github.com/matteosb), and many more.
 
