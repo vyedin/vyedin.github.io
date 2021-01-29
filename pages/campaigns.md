@@ -43,7 +43,7 @@ When I first joined the campaign, I was told we had several hundred thousand vol
 
 We sent our best and most trusted volunteers to Switchboard, a web app where they could discover, connect, and keep track of prospects in their area. We replaced the traditional model, where an organizer has to cut lists of prospects for volunteers to call, with a simple algorithm that repeatedly assigned volunteers their ten closest contacts. Volunteers would call or text their prospects and if they made a connection, they could sign the prospect up for an event and add them to their list for future contacts. 
 
-The app was beautiful, simple, and easy to use. We used a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift their prospects into Mobilize America events directly from the app. I personally used Switchboard almost daily to recruit for debate watch parties, phone banks, and canvasses in my town. Thousands of volunteer prospects got their first outreach from the campaign via Switchboard, and our volunteers loved it!
+The app was beautiful, simple, and easy to use. We used a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift their prospects into [Mobilize](https://join.mobilize.us/) events directly from the app. I personally used Switchboard almost daily to recruit for debate watch parties, phone banks, and canvasses in my town. Thousands of volunteer prospects got their first outreach from the campaign via Switchboard, and our volunteers loved it!
 
 Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@matteosb](https://github.com/matteosb), [@victoriaadams](https://twitter.com/victoriadams) and many many more!
 
@@ -51,7 +51,7 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 ### Shifter: Never Miss a Volunteer Shift
 
-Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to Mobilize America (our event management tool) using the Mobilize API. We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
+Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to [Mobilize](https://join.mobilize.us/) (our event management tool) using the Mobilize [API](https://github.com/mobilizeamerica/api). We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
 
 Shifter powered in-app event signups on Switchboard (above), as well as on our website. Becasue of Shifter, we were able to build a beautiful personalized signup journey where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
 
