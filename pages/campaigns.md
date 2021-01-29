@@ -50,7 +50,7 @@ Shifter powered in-app event signups on Switchboard (above), as well as on our w
 <br/>
 
 <p align="center">
-  <img src="../assets/images/shifter.png" alt="Shift Yourself"/>
+  <a href="../assets/images/shifter.png"><img src="../assets/images/shifter.png" alt="Shift Yourself"/></a>
 </p>
 
 <br/>
@@ -62,7 +62,7 @@ This is important because before Shifter, callers would mark the person they wer
 <br/>
 
 <p align="center">
-  <img src="../assets/images/shifter2.png" alt="Shift Yourself" width="500"/>
+  <a href="../assets/images/shifter2.png"><img src="../assets/images/shifter2.png" alt="Shift Yourself"/></a>
 </p>
 
 <br/>
@@ -93,11 +93,7 @@ We put together a proposal for a design and a recommendation to try building thi
 After some initial issues (service workers failed to update the app in certain scenarios, and we had to track down those users to clear their cache), our app and the accompanying support hotline worked well on caucus night, and even won us some delegates!
 
 <br/>
-
-<p align="center">
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our campaign collected photos and other raw documentation of the results at hundreds of caucus locations as part of our internal reporting process. Today we will provide what we have to the Iowa Democratic Party to help ensure the integrity of their process.</p>&mdash; Roger Lau 劉煒 (@RogerLau) <a href="https://twitter.com/RogerLau/status/1224712792227401729?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr" align="center">Spoke to a Warren precinct captain. She told me at her site there was a mistake in the counting/math at first, but Warren camp has its own delegate math app. So she did math and showed folks in charge, helped save a delegate for Warren.<br><br>This is how these things work I guess! 1/</p>&mdash; Danielle Kurtzleben (@titonka) <a href="https://twitter.com/titonka/status/1224558023974313985?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
 Caucuses are a [developer's nightmare](https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html), with niche requirements and little opportunity to test technology ahead of time. That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest. You can browse the source code for our app [here](https://github.com/Elizabeth-Warren/iowa-caucus-app).
@@ -105,12 +101,9 @@ Caucuses are a [developer's nightmare](https://www.nytimes.com/2020/02/09/us/pol
 In the end, we were able to share our raw data with the Iowa Democratic party to speed up results:
 
 <br/>
-
-<p align="center">
-  <a href="https://twitter.com/titonka/status/1224558023974313985"><img src="../assets/images/tweet2.png" alt="Tweet" width="400"/></a>
-</p>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr" align="center">Our campaign collected photos and other raw documentation of the results at hundreds of caucus locations as part of our internal reporting process. Today we will provide what we have to the Iowa Democratic Party to help ensure the integrity of their process.</p>&mdash; Roger Lau 劉煒 (@RogerLau) <a href="https://twitter.com/RogerLau/status/1224712792227401729?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
+
 
 Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@benweissmann](https://benweissmann.com/), [@victoriaadams](https://twitter.com/victoriadams), [@charlotteeffect](https://twitter.com/charlotteeffect), and many others.
 
@@ -127,9 +120,5 @@ I spent a lot of cycles on the campaign learning everything I could about teleph
 Our campaign tech team was a phenomenal group of individuals. To hear their stories, check out [this episode of DevTalk podcast](https://kerry.lothrop.de/devtalk-41/) we recorded with my friend Kerry Lothrop after the campaign, and [this wonderful post](https://medium.com/@susangoldblatt/tech-on-a-presidential-campaign-an-overview-9679d69b2109) by one of our engineers. You can find other campaign projects on the Team Warren [Github](https://github.com/Elizabeth-Warren).
 
 <br/>
-
-<p align="center">
-  <a href="https://twitter.com/elicejosselyn/status/1243560381555052550"><img src="../assets/images/tweet1.png" alt="Tweet" width="400"/></a>
-</p>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Several times during the campaign, the <a href="https://twitter.com/TeamWarren?ref_src=twsrc%5Etfw">@TeamWarren</a> tech team approached our NH team to ask: “How can I make your work easier? How can I simplify this process? What’s a pain point, and how can we help?” Whenever and wherever they could, they were there to help.</p>&mdash; Elice Rojas-Cruz (@elicejosselyn) <a href="https://twitter.com/elicejosselyn/status/1243560381555052550?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
