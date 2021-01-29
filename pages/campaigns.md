@@ -10,17 +10,7 @@ I joined the Warren campaign in June 2020 as the first product manager, focusing
 <br/>
 
 <p align="center">
-  <a href="https://twitter.com/elicejosselyn/status/1243560381555052550"><img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/></a>
-</p>
-
-<br/>
-
-Our campaign tech team was a phenomenal group of individuals. To hear their stories, check out [this episode of DevTalk podcast](https://kerry.lothrop.de/devtalk-41/) we recorded with my friend Kerry Lothrop after the campaign, and [this wonderful post](https://medium.com/@susangoldblatt/tech-on-a-presidential-campaign-an-overview-9679d69b2109) by one of our engineers. You can find other campaign projects on the Team Warren [Github](https://github.com/Elizabeth-Warren).
-
-<br/>
-
-<p align="center">
-<img src="../assets/images/tweet1.png" alt="Tweet" width="400"/>
+  <img src="../assets/images/warren.jpeg" alt="Warren Tech Team" width="600"/>
 </p>
 
 <br/>
@@ -34,7 +24,9 @@ Switchboard was a tool for distributed organizing. It's my favorite of all the p
 <br/>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FVrbVGFsK_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="responsive-youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FVrbVGFsK_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </p>
 
 <br/>
@@ -54,11 +46,6 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to [Mobilize](https://join.mobilize.us/) (our event management tool) using the Mobilize [API](https://github.com/mobilizeamerica/api). We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
 
 Shifter powered in-app event signups on Switchboard (above), as well as on our website. Becasue of Shifter, we were able to build a beautiful personalized signup journey where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
-
-<br/>
-<p align="center">
-</p>
-<br/>
 
 A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the people they were calling for a Mobilize event directly from the call script by submitting a form with the person's data pre-filled and the shift time selected. 
 
@@ -117,3 +104,16 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 I spent a lot of cycles on the campaign learning everything I could about telephony. This included researching the possibility of building our own dialer for massive call campaigns (we eventually decided [ThruTalk](https://www.thrutalk.io/)/Livevox was the most cost-effective option for us), finding ways to improve call connection rate with caller ID and whitelisting, and building call and text flows for various initiatives. Thanks to some clever ideas from [@benweissmann](https://benweissmann.com/) and a Twilio developer account, I once found myself "in charge" of a small army of Verizon phones that would all ring at the same time. I have zero regrets about the whole thing.
 
+---
+
+### More...
+
+Our campaign tech team was a phenomenal group of individuals. To hear their stories, check out [this episode of DevTalk podcast](https://kerry.lothrop.de/devtalk-41/) we recorded with my friend Kerry Lothrop after the campaign, and [this wonderful post](https://medium.com/@susangoldblatt/tech-on-a-presidential-campaign-an-overview-9679d69b2109) by one of our engineers. You can find other campaign projects on the Team Warren [Github](https://github.com/Elizabeth-Warren).
+
+<br/>
+
+<p align="center">
+  <a href="https://twitter.com/elicejosselyn/status/1243560381555052550"><img src="../assets/images/tweet1.png" alt="Tweet" width="400"/></a>
+</p>
+
+<br/>
