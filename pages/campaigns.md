@@ -1,6 +1,6 @@
 ---
 layout: page
-title: campaigh tech
+title: campaign tech
 tagline: my work on the warren campaign
 description: 
 ---
@@ -45,7 +45,7 @@ Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://gith
 
 Shifter was a tool that allowed us to collect event signups on our own front-ends and write them to [Mobilize](https://join.mobilize.us/) (our event management tool) using the Mobilize [API](https://github.com/mobilizeamerica/api). We created a mirror of our Mobilize events database that we synced periodically, writing new signups from our front-ends to Mobilize while refreshing our data to have the most recent events from Mobilize. This allowed us to capture event signups wherever we wanted.
 
-Shifter powered in-app event signups on Switchboard (above), as well as on our website. Becasue of Shifter, we were able to build a beautiful personalized signup journey where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
+Shifter powered in-app event signups on Switchboard (above), as well as on our website. We built a beautiful personalized signup journey based on Shifter, where visitors could select how they wanted to help and we would recommend events based on their location (and the campaign's priorities in that location). Shifter also acted as a failsafe to capture and cache event signups when Mobilize went down.
 
 A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the people they were calling for a Mobilize event directly from the call script by submitting a form with the person's data pre-filled and the shift time selected. 
 
