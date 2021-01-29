@@ -55,9 +55,9 @@ Shifter powered in-app event signups on Switchboard (above), as well as on our w
 
 <br/>
 
-A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the people they were calling for a Mobilize event directly from the call script by submitting a form with the person's data pre-filled and the shift time selected. 
+A Shifter widget was integrated directly into the call script in ThruTalk. This meant that a volunteer calling to recruit for an event on the mass-contact calling tool could sign up the supporter they were calling for a Mobilize event directly from the ThruTalk call script. 
 
-This is important because before Shifter, callers would mark the person they were calling as "interested in attending" in a survey question, relying on the callee to remember to attend the event (!!!). With Shifter, the callee received email reminders from Mobilize, and the success of our recruitment efforts could be tracked and measured. Shifter helped us capture thousands of volunteer shifts that would otherwise have been lost.
+This is important because before Shifter, callers would mark the person they were calling as "interested in attending" in a survey question, relying on the supporter to remember to attend the event (!!!). With Shifter, the supporter received email reminders from Mobilize, and the success of our recruitment efforts could be tracked and measured. Shifter helped us capture thousands of volunteer shifts that would otherwise have been lost.
 
 <br/>
 
