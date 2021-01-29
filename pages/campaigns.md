@@ -96,9 +96,13 @@ After some initial issues (service workers failed to update the app in certain s
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr" align="center">Spoke to a Warren precinct captain. She told me at her site there was a mistake in the counting/math at first, but Warren camp has its own delegate math app. So she did math and showed folks in charge, helped save a delegate for Warren.<br><br>This is how these things work I guess! 1/</p>&mdash; Danielle Kurtzleben (@titonka) <a href="https://twitter.com/titonka/status/1224558023974313985?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
+<br/>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The Warren caucus app was the only one in the room that worked, so take from that what you will.</p>&mdash; Amanda C. (@MdmeAlbertine) <a href="https://twitter.com/MdmeAlbertine/status/1224530037489262592?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
+
 Caucuses are a [developer's nightmare](https://www.nytimes.com/2020/02/09/us/politics/iowa-democratic-caucuses.html), with niche requirements and little opportunity to test technology ahead of time. That said, we found our infrastructure held up remarkably well. We gave ourselves a generous timeline (~6mo) for the project, we built on extensive feedback from colleagues who had used apps in previous caucuses, and we incorporated failsafes like the support hotline to help catch and fix issues before the contest. You can browse the source code for our app [here](https://github.com/Elizabeth-Warren/iowa-caucus-app).
 
-In the end, we were able to share our raw data with the Iowa Democratic party to speed up results:
+We were able to share the raw data we collected with the Iowa Democratic party to speed up results:
 
 <br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr" align="center">Our campaign collected photos and other raw documentation of the results at hundreds of caucus locations as part of our internal reporting process. Today we will provide what we have to the Iowa Democratic Party to help ensure the integrity of their process.</p>&mdash; Roger Lau 劉煒 (@RogerLau) <a href="https://twitter.com/RogerLau/status/1224712792227401729?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
