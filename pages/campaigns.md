@@ -95,7 +95,7 @@ After some initial issues (service workers failed to update the app in certain s
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/RogerLau/status/1224712792227401729"><img src="../assets/images/tweet3.png" alt="Tweet" width="400"/></a> 
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our campaign collected photos and other raw documentation of the results at hundreds of caucus locations as part of our internal reporting process. Today we will provide what we have to the Iowa Democratic Party to help ensure the integrity of their process.</p>&mdash; Roger Lau 劉煒 (@RogerLau) <a href="https://twitter.com/RogerLau/status/1224712792227401729?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 <br/>
