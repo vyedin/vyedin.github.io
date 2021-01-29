@@ -60,7 +60,7 @@ Collaborators:  [@goldblatt](https://github.com/goldblatt), [@jjandoc](https://g
 <br/>
 
 <p align="center">
-<img src="../assets/images/caucus1.png" alt="Caucus App" width="400"/><img src="../assets/images/caucus2.png" alt="Caucus App" width="400"/>
+  <img src="../assets/images/caucus.png" alt="Caucus App"/>
 </p>
 
 <br/>
