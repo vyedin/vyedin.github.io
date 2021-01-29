@@ -20,7 +20,9 @@ This presentation was selected for the final showcase (one of 6 out of 20).
 <br/>
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=false" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <div class="responsive-google-slides">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKqgFYAkmTfBKqVjd9hVLthhHHL5RDHiReA8icFVauVOcRKc269TvHOIBdzhyzXw/embed?start=false"></iframe>
+    </div>
 </p>
 
 <br/>
