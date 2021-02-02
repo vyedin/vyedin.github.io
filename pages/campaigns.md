@@ -35,9 +35,9 @@ When I first joined the campaign, I was told that several hundred thousand volun
 
 We sent our best volunteers to Switchboard, a web app where they could discover, connect, and keep track of supporters in their area. We replaced the traditional model, where an organizer has to cut lists of prospects for volunteers to call, with a simple algorithm that repeatedly assigned volunteers their ten closest contacts. Volunteers would call or text supporters and if they made a connection, they could sign the supporter up for an event and add them to their list for future contacts. 
 
-The app was beautiful, simple, and easy to use. We made a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift supporters into [Mobilize](https://join.mobilize.us/) events directly from the app. I personally used Switchboard daily to recruit for debate watch parties, phone banks, and canvasses in my town. Thousands of supporters got their first outreach from the campaign via Switchboard, and our volunteers loved it!
+The app was beautiful, simple, and easy to use. We made a passwordless login flow (we didn't want to be in the business of doing password resets!), and volunteers could shift supporters into [Mobilize](https://join.mobilize.us/) events directly from the app. I personally used Switchboard daily to recruit for debate watch parties, phone banks, and canvasses in my town. 3000+ volunteers used Switchboard, and thousands of supporters got their first outreach from the campaign via Switchboard, and our volunteers loved it!
 
-Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@matteosb](https://github.com/matteosb), [@victoriaadams](https://twitter.com/victoriadams) and many many more!
+Collaborators: [@jjandoc](https://github.com/jjandoc), [@goldblatt](https://github.com/goldblatt), [@matteosb](https://github.com/matteosb), [@victoriaadams](https://twitter.com/victoriadams), [@higgycodes](https://twitter.com/higgyCodes), and many many more!
 
 ---
 
@@ -50,7 +50,8 @@ Shifter powered in-app event signups on Switchboard (above), as well as on our w
 <br/>
 
 <p align="center">
-  <a href="../assets/images/shifter.png"><img src="../assets/images/shifter.png" alt="Shift Yourself"/></a>
+  <a href="../assets/images/shifter.png"><img src="../assets/images/shifter.png" alt="Shift Yourself"/></a><br/>
+  <i>Shifter on the /volunteer page. This page got 12.5k WAU and was responsible for 12% of all call and 15% of all canvassing signups.</i>
 </p>
 
 <br/>
@@ -67,7 +68,7 @@ This is important because before Shifter, callers would mark the person they wer
 
 <br/>
 
-Collaborators:  [@goldblatt](https://github.com/goldblatt), [@jjandoc](https://github.com/jjandoc), [@victoriaadams](https://twitter.com/victoriadams), [@matteosb](https://github.com/matteosb), and many more.
+Collaborators:  [@goldblatt](https://github.com/goldblatt), [@jjandoc](https://github.com/jjandoc), [@victoriaadams](https://twitter.com/victoriadams), [@matteosb](https://github.com/matteosb), [@chipbetterley](https://www.linkedin.com/in/cbetterley) and many more.
 
 ---
 
