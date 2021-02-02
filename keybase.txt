@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vyedin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vyed.in
+  * I am vyedin (https://keybase.io/vyedin) on keybase.
+  * I have a public key with fingerprint C460 CF4E 8063 58C2 F26D  0827 941C 5C29 C034 CDF8
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101beeb50d170c14ce9c0e8ad8a989235d6376c7daf1a2c400de60853484a02a37e0a",
+      "fingerprint": "c460cf4e806358c2f26d0827941c5c29c034cdf8",
+      "host": "keybase.io",
+      "key_id": "941c5c29c034cdf8",
+      "kid": "0101beeb50d170c14ce9c0e8ad8a989235d6376c7daf1a2c400de60853484a02a37e0a",
+      "uid": "9729979f25e53f017e35704b643e8f19",
+      "username": "vyedin"
+    },
+    "service": {
+      "hostname": "vyed.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1612226506,
+  "expire_in": 157680000,
+  "prev": "47f555331088c126f7990dbc3322eb1e27fa9a52f8e7a193b012666b8290d950",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJbSFRBGMd3UzM3BXuQjF5sIMVYbM6cy8zZwsrKejDKXqLMtnPmzNGT
+tmfdXXcTtYxCy65GRlpS+VAEmVlBDxFZWlAplT0U2ENJgkZadDG60pwu0EOPzcsw
+3/z+/+//DdObEufyuIcqDj6MLZVq3PduNFW6NqafuFsNdNuoAr5qUMZ+bqzcYOGI
+v8wygA9AAQo6Y7oMDQFDKkiUqRQyohlEU4mKRNlQRKxQbGimoCEqQWgwBRJZlIik
+QaSJmEENeIFpBUpYKBiyAhFuSyUFUlNiBCqiTCgykWJAgrAqCVSmiLcQJWqYhAtL
+7bCj4OF0LcxyLJvX+MH/M94/+P+cu/JXH4xUFasmkpksmlDATJQxlHRFEhkxBdUB
+wywU0DYzTkermGEFQK0X8FrUosx5VmeOv+5zOOAFwZAdsaldzoulkUgw7HNEkaqg
+Q8WY7v+t9+tWgDuWcEWUhcKWHQA+gZM0YjmGgiIghBQZKl7AtgStEPNbDiFjhUC+
+nD4syi0lbMqyLIoCJIQKSDGxqkJDp6KIENMFhrCpqZqMTMKwJqiiDjmkKDpBHFNl
+CJyJKgI28ImY59RKuGfYKglokcoQA7U3u9fHu9we1+SESc7PcnmSUv/8N+1Y4vdZ
+npO525OvNvb4RraMbT3dMpBWcOtrMC5hzef6hsNvFtFeUqDu+LB4oPjtWO742r64
+RyDh8jYN5lzqHx/JqF/3YMrtRFKaaTZsDXoXDrTg/OXmnKTa4neDR6d/Wuvu7eq6
+0His/MCZIzfx+SW5o2Bi7p4O/8xrg8Pz2xo+uoYbpjX1maPZrd+mv8q8HiPljavb
+M3pCp+q+bGpqbfYVrlqW9TK5cPK8+xV7J7LSd+7Kbr3z/PHrF91LMzYMtqbVJXUU
+dR4Y2t2uJg/vTMpbYT99X3f8yoraJ+74k23NOfmlBSvz6mefPXTlnN4v+/PYguzU
+Zxc7q1O6ivZHp8ZmdNTgmowb+34APWo6Cw==
+=zE65
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vyedin
+
+==================================================================
