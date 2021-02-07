@@ -28,4 +28,4 @@ You can see lots of examples of my work on:
 * I'm available for consulting/contract work on select projects 📈
 * If you're looking for help building your product, or if you'd like me to speak at your next event, get in touch: [nina@vyed.in](mailto:nina@vyed.in) 💌 
 
-You can find me on [keybase](https://keybase.io/vyedin), [github](https://github.com/vyedin), [linkedin](https://www.linkedin.com/in/vyedin/), and occasionally [twitter](https://twitter.com/vyedin). My resume is [here](/assets/resumes/nina-resume-2021.pdf).
+You can find me on [keybase](https://keybase.io/vyedin), [github](https://github.com/vyedin), [linkedin](https://www.linkedin.com/in/vyedin/), and occasionally [twitter](https://twitter.com/vyedin). My resume is [here](/assets/resumes/Vyedin.pdf).
