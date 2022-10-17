@@ -5,7 +5,7 @@ tagline: data science, modeling, deep learning
 description: 
 ---
 
-I love working with data, and I am working towards a certificate in data science from Harvard's extension school program. Here are a few examples of data projects I've worked on.
+I love working with data. Here's some of my favorite projects I've done in various classes and workshops.
 
 ---
 
