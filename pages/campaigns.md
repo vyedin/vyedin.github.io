@@ -5,7 +5,7 @@ tagline: my work on the warren campaign
 description: 
 ---
 
-I joined the Warren campaign in June 2020 as the first product manager, focusing on organizing technology. Much of what my team built was open sourced after the campaign, and you can find a good summary of that effort on [Wired](https://www.wired.com/story/elizabeth-warren-campaign-open-source-tech/) and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
+I joined the Warren campaign in June 2019 as the first product manager, focusing on organizing technology. Much of what my team built was open sourced after the campaign, and you can find a good summary of that effort on [Wired](https://www.wired.com/story/elizabeth-warren-campaign-open-source-tech/) and [Medium](https://medium.com/@teamwarren/open-source-tools-from-the-warren-for-president-tech-team-f1f27d2c7551).
 
 <br/>
 
