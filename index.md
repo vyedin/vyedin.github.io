@@ -23,6 +23,6 @@ You can see lots of examples of my work on:
 
 <br/>
 
-You can find me on [keybase](https://keybase.io/vyedin), [github](https://github.com/vyedin), [linkedin](https://www.linkedin.com/in/vyedin/), and occasionally [twitter](https://twitter.com/vyedin).
+You can find me on [keybase](https://keybase.io/vyedin), [github](https://github.com/vyedin), [linkedin](https://www.linkedin.com/in/vyedin/), <a rel="me" href="https://hachyderm.io/@vyedin">mastodon</a>, and formerly [twitter](https://twitter.com/vyedin) (RIP).
 
 Get in touch with me at [nina@vyed.in](mailto:nina@vyed.in) 💌 
